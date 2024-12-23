@@ -752,7 +752,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
     flex-direction: column;
     width: 500px;
     overflow: hidden;
@@ -795,7 +795,7 @@ section{
 }
 .image-santa-content{
     position: relative;
-    left: 187px;
+    left: 500px;
     width: 100%;
 }
 .image-santa-content img{
